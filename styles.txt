@@ -35,7 +35,7 @@ nav ul li a {
 }
 
 .hero-section {
-    background: url('image.jpg') no-repeat center center/cover;
+    background; url('image.jpg') no-repeat center center/cover;
     height: 50vh;
     color: red;
     text-align: center;
@@ -57,7 +57,7 @@ section {
 }
 
 .service {
-    background-color: =red;
+    background-color: red;
     padding: 1rem;
     margin: 1rem;
     border-radius: 8px;
